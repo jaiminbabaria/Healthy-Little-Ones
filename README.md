@@ -1,7 +1,4 @@
 # Healthy-Little-Ones
-A web application for child healthcare, vaccination tracking, and parental guidance.
-
-# Healthy Little Ones
 
 ## Project Overview
 Healthy Little Ones is a healthcare and awareness web application primarily focused on children up to the age of 15. The platform allows parents and doctors to communicate and manage children's health effectively. Key features include:
