@@ -32,8 +32,8 @@ Healthy Little Ones is a healthcare and awareness web application primarily focu
 - Partner with healthcare organizations.
 
 ## Contributors
-- Jaimin Babaria (https://github.com/YourUsername)
-- Bhargav Bhalara (https://github.com/TeamMemberUsername)
+- Jaimin Babaria (https://github.com/jaiminbabaria)
+- Bhargav Bhalara (https://github.com/BhargavBhalara)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
